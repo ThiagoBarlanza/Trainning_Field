@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Thiago");
+        System.out.println("Hello, GitHub");
 
         int myFirstNumber = (10 + 5) + (2 * 10);
         int mySecondNumber = 12;
